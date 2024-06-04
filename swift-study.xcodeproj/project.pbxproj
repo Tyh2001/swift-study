@@ -14,6 +14,7 @@
 		26E4ABBA2C0E061600940E92 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26E4ABB92C0E061600940E92 /* SettingView.swift */; };
 		26E4ABBC2C0E118200940E92 /* PopupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26E4ABBB2C0E118200940E92 /* PopupView.swift */; };
 		26E4ABBE2C0EA16D00940E92 /* AsyncView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26E4ABBD2C0EA16D00940E92 /* AsyncView.swift */; };
+		26E4ABC02C0EDEB000940E92 /* SectionDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26E4ABBF2C0EDEB000940E92 /* SectionDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		26E4ABB92C0E061600940E92 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 		26E4ABBB2C0E118200940E92 /* PopupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopupView.swift; sourceTree = "<group>"; };
 		26E4ABBD2C0EA16D00940E92 /* AsyncView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncView.swift; sourceTree = "<group>"; };
+		26E4ABBF2C0EDEB000940E92 /* SectionDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				26E4ABB92C0E061600940E92 /* SettingView.swift */,
 				26E4ABBB2C0E118200940E92 /* PopupView.swift */,
 				26E4ABBD2C0EA16D00940E92 /* AsyncView.swift */,
+				26E4ABBF2C0EDEB000940E92 /* SectionDemo.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 			files = (
 				26E4ABBA2C0E061600940E92 /* SettingView.swift in Sources */,
 				26E4ABBC2C0E118200940E92 /* PopupView.swift in Sources */,
+				26E4ABC02C0EDEB000940E92 /* SectionDemo.swift in Sources */,
 				26E4ABAD2C0DE3D800940E92 /* ContentView.swift in Sources */,
 				26E4ABAB2C0DE3D800940E92 /* swift_studyApp.swift in Sources */,
 				26E4ABBE2C0EA16D00940E92 /* AsyncView.swift in Sources */,
